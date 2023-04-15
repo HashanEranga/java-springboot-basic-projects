@@ -1,5 +1,6 @@
 package com.hashan.javspringbasics.dependencyinjection.Sorting;
 
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component
